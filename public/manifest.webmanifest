@@ -1,0 +1,18 @@
+{
+  "name": "IELTS MasterSpeak AI — Speaking Prep",
+  "short_name": "IELTS Master",
+  "description": "IELTS Speaking Preparation & Voice Examiner powered by Google Gemini AI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B192C",
+  "theme_color": "#D6001C",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='25' fill='%23D6001C'/><text y='70' x='18' font-size='60' fill='white'>🎙️</text></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

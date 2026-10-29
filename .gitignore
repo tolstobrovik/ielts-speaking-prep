@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+.env
+.env.*
+!.env.example
+
+# Production build outputs
+dist/
+
+# Android build outputs & local caches
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+*.iml
+.gradle/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.log
